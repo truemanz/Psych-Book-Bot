@@ -1,2 +1,2 @@
 # Psych-Book-Bot
-This is the project where i made a Book-Bot with pyhton.
+This Book-Bot is my first full project! I just learned python so I am making Book-Bot with python 
